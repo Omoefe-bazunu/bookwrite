@@ -10,7 +10,7 @@ export const Books = () => {
         </div>
         <BookTemplate
           price="3,000"
-          cover="./src/assets/book.jpg"
+          cover="/book.jpg"
           link="#"
           description="'Above Measure' is a compelling tale that explores the extraordinary lengths we go to uncover purpose, navigate challenges, and embrace the unexpected twists of life. Through gripping storytelling, this book explores themes of resilience, ambition, and the delicate balance between sacrifice and fulfillment. 
 
@@ -18,7 +18,7 @@ With every turn of the page, readers are drawn into a world where the ordinary m
         />
         <BookTemplate
           price="2,500"
-          cover="./src/assets/heart.jpg"
+          cover="/heart.jpg"
           link="#"
           description="'Heart of Steel' is an electrifying story of courage, determination, and the unyielding spirit to overcome life’s toughest battles. Set against a backdrop of trials and triumphs, this book explores the depths of human resilience and the power of unwavering resolve. 
 

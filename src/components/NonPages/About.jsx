@@ -44,7 +44,7 @@ export const About = () => {
       <div
         className="w-full lg:w-[45%] h-[650px] lg:h-auto flex relative rounded-tr-2xl rounded-bl-2xl"
         style={{
-          backgroundImage: `url("./src/assets/download.png")`,
+          backgroundImage: `url("/download.png")`,
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}

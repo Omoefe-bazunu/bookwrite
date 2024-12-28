@@ -5,12 +5,12 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAuQ3wPorUHUJF6v_gSIByMa-QfG2wLkvg",
-  authDomain: "bookwrite-752c4.firebaseapp.com",
-  projectId: "bookwrite-752c4",
-  storageBucket: "bookwrite-752c4.firebasestorage.app",
-  messagingSenderId: "663433977123",
-  appId: "1:663433977123:web:c2c7f3d80c04ff38e14096",
+  apiKey: "AIzaSyDeXAOaWgzaUhrgs6zzVkq0E-iV0TNU-QU",
+  authDomain: "bookwrite-75f48.firebaseapp.com",
+  projectId: "bookwrite-75f48",
+  storageBucket: "bookwrite-75f48.firebasestorage.app",
+  messagingSenderId: "469860541078",
+  appId: "1:469860541078:web:bff471fb968cf58e5d18b7",
 };
 
 // Initialize Firebase

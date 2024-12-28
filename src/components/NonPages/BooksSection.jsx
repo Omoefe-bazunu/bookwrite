@@ -26,7 +26,7 @@ export const BookSection = () => {
           <div
             className="w-full lg:w-[45%] h-[650px] lg:h-full flex shadow-md"
             style={{
-              backgroundImage: `url("./src/assets/heart.jpg")`,
+              backgroundImage: `url("/heart.jpg")`,
               backgroundSize: "cover",
               backgroundPosition: "center",
             }}
@@ -34,7 +34,7 @@ export const BookSection = () => {
           <div
             className="w-full lg:w-[45%] h-[650px] lg:h-full flex mt-8 shadow-md"
             style={{
-              backgroundImage: `url("./src/assets/book.jpg")`,
+              backgroundImage: `url("/book.jpg")`,
               backgroundSize: "cover",
               backgroundPosition: "center",
             }}

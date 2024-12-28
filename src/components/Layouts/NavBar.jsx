@@ -9,7 +9,7 @@ export const NavBar = () => {
     <div
       className="h-72 mx-auto w-full"
       style={{
-        backgroundImage: `url("./src/assets/headerbg.jpg")`,
+        backgroundImage: `url("/headerbg.jpg")`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
